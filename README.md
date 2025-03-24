@@ -33,7 +33,7 @@ Applicazione full-stack con **React e Node.js**, per la gestione delle sottoscri
 
 📩 **Email:** [jonathanultijni@gmail.com]
 💼 **LinkedIn:** [www.linkedin.com/in/jonathan-ultini]
-📂 **Portfolio:** [[Tuo sito web](https://jonathanultini.it/)]
+📂 **Portfolio:** [[mio sito web](https://jonathanultini.it/)]
 
 Grazie per aver visitato il mio profilo! 🚀
 
