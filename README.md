@@ -22,7 +22,7 @@ Sono un appassionato sviluppatore web con esperienza in **Vue.js, Laravel, React
 Un portfolio personale sviluppato in **React.js**, con un design moderno e responsive.
 
 ### [🔗 DeliveBoo](https://github.com/Jonathan-Ultini/vue-deliveboo)
-Piattaforma di food delivery sviluppata con **Vue.js e Laravel**, che include autenticazione, gestione ristoranti e pagamenti con **Braintree**.
+Piattaforma di food delivery sviluppata con **Vue.js e Laravel**, in due progetti separati, che include autenticazione, gestione ristoranti e pagamenti con **Braintree**.
 
 ### [🔗 Subscription Tracker](https://github.com/Jonathan-Ultini/subscription-tracker)
 Applicazione full-stack con **React e Node.js**, per la gestione delle sottoscrizioni personali, con autenticazione e dashboard interattiva.
