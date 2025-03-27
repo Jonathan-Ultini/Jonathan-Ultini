@@ -34,7 +34,7 @@ AI Flappy Bird con NEAT e Pygame: un'IA evolutiva che impara a giocare a Flappy 
 
 ## 📫 Contatti
 
-📩 **Email:** [[EMAIL]mailto:jonathanultini@gmail.com]
+📩 **Email:** [[EMAIL](mailto:jonathanultini@gmail.com)]
 💼 **LinkedIn:** [[LINKEDIN](https://www.linkedin.com/in/jonathan-ultini-25a27133a/)]
 📂 **Portfolio:** [[PORTFOLIO](https://jonathanultini.it/)]
 
