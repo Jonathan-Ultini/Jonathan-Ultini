@@ -22,7 +22,7 @@ Sono un appassionato sviluppatore web con esperienza in **Vue.js, Laravel, React
 Un portfolio personale sviluppato in **React.js**, con un design moderno e responsive.
 
 ### [🔗 React Movie](https://github.com/Jonathan-Ultini/react-movie)  Link sito: [[movie](https://jonathanultini.it/projects/movies/)]
-Costruita con React.js per l'interfaccia utente, Appwrite per l'algoritmo Trending Movies e con TailwindCSS come stile. La piattaforma offre un'esperienza elegante e moderna per la navigazione e la scoperta di film.
+Costruita con **React.js** per l'interfaccia utente, **Appwrite** per l'algoritmo Trending Movies e con **TailwindCSS** come stile. 
 
 ### [🔗 DeliveBoo Vue](https://github.com/Jonathan-Ultini/vue-deliveboo) [🔗 DeliveBoo laravel](https://github.com/Jonathan-Ultini/laravel-deliveboo)
 Piattaforma di food delivery sviluppata con **Vue.js e Laravel**, in due progetti separati, che include autenticazione, gestione ristoranti e pagamenti con **Braintree**.
@@ -31,7 +31,7 @@ Piattaforma di food delivery sviluppata con **Vue.js e Laravel**, in due progett
 Applicazione full-stack con **React e Node.js**, per la gestione delle sottoscrizioni personali, con autenticazione e dashboard interattiva.
 
 ### [🔗 Flappybird AI](https://github.com/Jonathan-Ultini/flappybird-ai)
-AI Flappy Bird con NEAT e Pygame: un'IA evolutiva che impara a giocare a Flappy Bird tramite reti neurali e algoritmi genetici!
+AI Flappy Bird con **NEAT** e **Pygame**: un'IA evolutiva che impara a giocare a Flappy Bird tramite reti neurali e algoritmi genetici!
 
 ---
 
