@@ -27,6 +27,9 @@ Piattaforma di food delivery sviluppata con **Vue.js e Laravel**, in due progett
 ### [🔗 Subscription Tracker](https://github.com/Jonathan-Ultini/subscription-tracker)
 Applicazione full-stack con **React e Node.js**, per la gestione delle sottoscrizioni personali, con autenticazione e dashboard interattiva.
 
+### [🔗 Flappybird AI](https://github.com/Jonathan-Ultini/flappybird-ai)
+AI Flappy Bird con NEAT e Pygame: un'IA evolutiva che impara a giocare a Flappy Bird tramite reti neurali e algoritmi genetici!
+
 ---
 
 ## 📫 Contatti
