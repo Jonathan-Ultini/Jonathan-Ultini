@@ -9,7 +9,7 @@ Sono un appassionato sviluppatore web con esperienza in **Vue.js, Laravel, React
 ## 🚀 Tecnologie e Strumenti
 
 - **Frontend:** Vue.js, React.js, JavaScript (ES6+), HTML, CSS, Tailwind CSS, Bootstrap
-- **Backend:** Laravel, PHP, Node.js, Express.js
+- **Backend:** Laravel, PHP, Node.js, Express.js, Python
 - **Database:** MongoDB, MySQL
 - **Strumenti:** Git, GitHub, Postman, Figma
 - **Altro:** REST API, WebSockets, autenticazione JWT, pagamento online (Braintree), Upstash, Nodemailer, Arcjet, Hostinger
